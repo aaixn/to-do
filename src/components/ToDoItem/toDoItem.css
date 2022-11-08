@@ -1,0 +1,13 @@
+.todo-item {
+    border: 1px solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    gap: 50%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.complete {
+    cursor: pointer;
+}

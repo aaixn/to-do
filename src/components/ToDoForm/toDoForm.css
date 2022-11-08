@@ -1,0 +1,26 @@
+.add-todo {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    width: 80%;
+    margin: 100px auto;
+}
+
+input, button {
+    margin: 20px 0 20px 0;
+}
+
+input {
+    width: 50%;
+}
+
+button {
+    width: 10%;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
